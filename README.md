@@ -16,8 +16,8 @@ Requirements
 
 An account on Rubicon Project
 Placement set-up for Revv for Mobile SDK. Please contact your Rubicon Project Account Manager for the placement information.
-XCode 7.0 or higher
-Deployment target of Android API 10 or higher
+
+SDK supports Android API 10 or higher
 
 Samples
 
