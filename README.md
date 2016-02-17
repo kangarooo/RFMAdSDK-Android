@@ -20,7 +20,7 @@ Deployment target of Android API 10 or higher
 
 Samples
 
-We have built some sample apps to show how to integrate our SDK in some typical use cases. Check them out in our github repository
+We have built some sample apps to show how to integrate our SDK in some typical use cases. Check them out in our github repository https://github.rp-core.com/Mobile/RFM-SDKSamples-Android
 
 Contact Us
 
