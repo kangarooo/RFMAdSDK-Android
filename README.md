@@ -1,4 +1,5 @@
 Rubicon Project Mobile Ads SDK for Android
+
 Maximize the monetization of your app inventory
 
 The Rubicon Project mobile SDK lets you access Rubicon Project’s extensive network of advertising brands and effective optimization tools to maximize the monetization of your network’s Android app inventory.
