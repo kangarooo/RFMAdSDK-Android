@@ -5,7 +5,7 @@ The Rubicon Project mobile SDK lets you access Rubicon Project’s extensive net
 
 Integrate
 
-Check out our developer portal for integration instructions.
+Check out our developer portal (http://dev.rubiconproject.com/docs/Mobile_SDK_for_Android) for integration instructions.
 
 Release Notes
 
